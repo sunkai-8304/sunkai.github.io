@@ -9,19 +9,19 @@ main:
     weight: 10
   - name: Publications
     url: '#featured'
-    weight: 60
+    weight: 20
   - name: Projects
     url: '#projects'
-    weight: 40
+    weight: 30
   - name: Presentations
     url: '#presentations'
-    weight: 50
+    weight: 40
   - name: Service
     url: '#service'
     weight: 50
   - name: Awards
     url: '#awards'
-    weight: 50
+    weight: 60
   - name: Contact
     url: '#contact'
     weight: 70
