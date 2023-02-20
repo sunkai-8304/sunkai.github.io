@@ -1,6 +1,7 @@
 ---
 title: Kai Sun
 role: Postdoctoral Associate, Geography
+avatar_filename: 微信图片_20230220111437.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
