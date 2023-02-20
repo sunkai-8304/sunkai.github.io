@@ -2,7 +2,7 @@
 widget: kaisunkiuoqjlfkjel
 widget_id: experience
 headless: true
-weight: 10
+weight: 0
 active: true
 design:
   columns: "2"
