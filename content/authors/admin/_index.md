@@ -75,8 +75,4 @@ email: ""
 highlight_name: true
 ---
 
-Ryan Zhenqi Zhou is a Ph.D. student in the [Department of Geography](https://www.buffalo.edu/cas/geography.html) at the [State University of New York at Buffalo (UB)](https://www.buffalo.edu/), and a research assistant at [GeoAI Lab](https://geoai.geog.buffalo.edu/), guided by Dr. Yingjie Hu. His research focuses on health outcome prediction and understanding by integrating human mobility data, geospatial image data, and existing AI models. He is interested in GeoAI, Public Health, Urban Analytics, Social Media, and Big Data.
-
-Prior to starting his Ph.D., he completed his M.E. in Landscape Architecture at the Nanjing Forestry University, and B.A. in Landscape Gardening at the Zhejiang A&F University. Apart from studying, he likes strength training and soccer.
-
-Download my [Resume](https://ryan-zhenqi-zhou.github.io/Ryan-Zhou-CV.pdf).
+Kai Sun is a postdoctoral associate in the [Department of Geography](https://www.buffalo.edu/cas/geography.html) at the [University of Buffalo (UB)](https://www.buffalo.edu/), advised by Dr. Yingjie Hu. Before having this postdoc position, he worked as a postdoc researcher at the Institute of Geographic Sciences and Natural Resources Research, CAS. His current major research interest is in geospatial artificial intelligence (GeoAI), with a special focus on understanding and extracting location descriptions from disaster related social media messages. My [CV](https://drive.google.com/file/d/1QA4woq6S1sZEERgbjAPrS4Zpf7VzTmYz/view?usp=share_link) can be downlaoded here.
