@@ -50,19 +50,16 @@ social:
   link: https://scholar.google.com/citations?user=czTnYJQAAAAJ&hl=en
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/ryan-zhenqi-zhou-876767221/
+  link: https://www.linkedin.com/in/kai-sun-b4a265177/
 - icon: github
   icon_pack: fab
-  link: https://github.com/ryan-zhenqi-zhou
+  link: https://github.com/sunkai-8304
 - icon: researchgate
   icon_pack: ai
-  link: https://www.researchgate.net/profile/Ryan-Zhou-5
+  link: https://www.researchgate.net/profile/Kai-Sun-20
 - icon: orcid
   icon_pack: ai
-  link: https://orcid.org/0000-0002-7182-140X
-- icon: academia
-  icon_pack: ai
-  link: https://sunybuffalo.academia.edu/RyanZhenqiZhou
+  link: https://orcid.org/my-orcid?orcid=0000-0002-0343-6032
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
