@@ -27,10 +27,10 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: Ph.D. in Geographic information science
+  - course: Ph.D. in GIScience
     institution: Institute of Geographic Sciences and Natural Resources Research, CAS
-    year: 2021 (expected)
-  - course: M.S. in Geographic information science
+    year: 2021
+  - course: M.S. in GIScience
     institution: Institute of Geographic Sciences and Natural Resources Research, CAS
     year: 2017
   - course: B.E. in Remote sensing
