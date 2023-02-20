@@ -1,8 +1,7 @@
 ---
-# Generate Wowchemy CMS
-type: wowchemycms
-private: true
-outputs:
-  - wowchemycms_config
-  - HTML
+# Homepage
+type: widget_page
+
+# Homepage is headless, other widget pages are not.
+headless: true
 ---
