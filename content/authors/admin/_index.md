@@ -59,7 +59,7 @@ social:
   link: https://www.researchgate.net/profile/Kai-Sun-20
 - icon: orcid
   icon_pack: ai
-  link: https://orcid.org/my-orcid?orcid=0000-0002-0343-6032
+  link: https://orcid.org/0000-0002-0343-6032
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
