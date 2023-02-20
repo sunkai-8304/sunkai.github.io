@@ -30,7 +30,7 @@ social:
     icon_pack: ai
     link: uploads/resume.pdf
 organizations:
-  - name: Stanford University
+  - name: University at Buffalo
     url: https://www.stanford.edu/
 education:
   courses:
