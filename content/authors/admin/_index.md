@@ -27,15 +27,15 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: Ph.D. in Geography
-    institution: University at Buffalo - SUNY, USA
-    year: 2026 (expected)
-  - course: M.E. in Landscape Architecture
-    institution: Nanjing Forestry University, China
-    year: 2021
-  - course: B.A. in Landscape Gardening
-    institution: Zhejiang A&F University, China
-    year: 2018
+  - course: Ph.D. in Geographic information science
+    institution: Institute of Geographic Sciences and Natural Resources Research, CAS
+    year: 2021 (expected)
+  - course: M.S. in Geographic information science
+    institution: Institute of Geographic Sciences and Natural Resources Research, CAS
+    year: 2017
+  - course: B.E. in Remote sensing
+    institution: Wuhan university
+    year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
