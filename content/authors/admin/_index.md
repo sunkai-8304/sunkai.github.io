@@ -34,7 +34,7 @@ education:
     institution: Institute of Geographic Sciences and Natural Resources Research, CAS
     year: 2017
   - course: B.E. in Remote sensing
-    institution: Wuhan university
+    institution: Wuhan University
     year: 2014
 
 # Social/Academic Networking
