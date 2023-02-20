@@ -11,7 +11,7 @@ design:
   columns: '2'
 ---
 
-4\. Excellent Graduate, by Institute of Geographic Sciences and Natural Resources   Research, CAS, 2021  
+4\. Excellent Graduate, by Institute of Geographic Sciences and Natural Resources &nbsp&nbspResearch, CAS, 2021  
 3\. Doctor Fellowship, by Institute of Geographic Sciences and Natural Resources   Research, CAS, 2018, 2019  
 2\. Joint Ph.D. Student Scholarship, by China Scholarship Council, 2018  
 1\. Undergraduate Fellowship, by Wuhan University, 2011, 2012
