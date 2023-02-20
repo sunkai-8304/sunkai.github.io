@@ -31,7 +31,7 @@ social:
     link: uploads/resume.pdf
 organizations:
   - name: University at Buffalo
-    url: https://www.stanford.edu/
+    url: https://www.buffalo.edu/
 education:
   courses:
     - course: PhD in Artificial Intelligence
