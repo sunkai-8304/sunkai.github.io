@@ -1,6 +1,6 @@
 ---
 title: Kai Sun
-role: Professor of Artificial Intelligence
+role: Postdoc associate
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
