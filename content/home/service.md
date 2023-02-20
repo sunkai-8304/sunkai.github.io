@@ -12,10 +12,8 @@ design:
 ---
 
 **Peer Reviewer for Academic Journals**
-* [Computational Urban Science](https://www.springer.com/journal/43762) (2)
-
-**Committee Service**
-* **Co-host**, GISalon, [GISphere](https://gisphere.github.io/) (Student academic organizations), Oct. 2021-present, USA.
-* **Faculty Liaison for PhD**, Geography GSA, University at Buffalo - SUNY, Sept. 2022-present, USA.
+* [International Journal of Geographical Information Science](https://www.tandfonline.com/toc/tgis20/current)
+* [Transactions in GIS](https://onlinelibrary.wiley.com/journal/14679671)
+* [Journal of Earth Science](https://www.springer.com/journal/12583)
 
 
