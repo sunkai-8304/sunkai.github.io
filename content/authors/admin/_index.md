@@ -12,7 +12,7 @@ role: Postdoctoral Associate
 organizations:
 - name: Department of Geography
   url: https://www.buffalo.edu/cas/geography.html
-- name: University at Buffalo - SUNY
+- name: University at Buffalo
   url: https://www.buffalo.edu/
 
 # Short bio (displayed in user profile at end of posts)
@@ -21,8 +21,8 @@ bio: My research interests include GEOAI, Public Health, Urban Analytics.
 # Interests to show in About widget
 interests:
 - GeoAI
-- Public Health
-- Urban Analytics
+- NLP
+- Disaster
 
 # Education to show in About widget
 education:
