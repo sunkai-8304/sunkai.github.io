@@ -52,5 +52,5 @@ highlight_name: true
 first_name: Alice
 email: ""
 ---
-Kai Sun is a postdoctoral associate in the [Department of Geography](https://www.buffalo.edu/cas/geography.html) at the [University at Buffalo (UB)](https://www.buffalo.edu/).
+Kai Sun is a postdoctoral in the [Department of Geography](https://www.buffalo.edu/cas/geography.html) at the [University at Buffalo (UB)](https://www.buffalo.edu/). 
 {style="text-align: justify;"}
