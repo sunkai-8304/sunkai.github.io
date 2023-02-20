@@ -22,7 +22,7 @@ design:
 4\. Second-class Scholarship, by Nanjing Forestry University, 2019\
 3\. Third-class Scholarship, by Zhejiang A&F University, 2017\
 2\. Second Prize, 4th ZAFU Career Planning Competition, by Zhejiang A&F University, <br> &nbsp;&nbsp;&nbsp;&nbsp;2016\
-1\. Third Prize, 4th ZAFU ‘Beautiful Village’ Design Competition, by Zhejiang A&F <br> &nbsp;&nbsp;&nbsp;&nbsp;University, 2015
+1. Undergraduate Fellowship, by Wuhan University, 2011, 2012
 
 
 
