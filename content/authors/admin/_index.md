@@ -35,15 +35,15 @@ organizations:
     url: https://www.buffalo.edu/
 education:
   courses:
-    - course: PhD in Gegraphic Information Science
+    - course: Ph.D. in Gegraphic Information Science
       institution: Institute of Geographic Sciences and Natural Resources Research, CAS
       year: 2021
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: M.S. in Gegraphic Information Science
+      institution: Institute of Geographic Sciences and Natural Resources Research, CAS
+      year: 2017
+    - course: B.S. in Gegraphic Information Science
+      institution: Institute of Geographic Sciences and Natural Resources Research, CAS
+      year: 2014
 superuser: true
 status:
   icon: ☕️
