@@ -15,8 +15,6 @@ organizations:
 - name: University at Buffalo
   url: https://www.buffalo.edu/
 
-# Short bio (displayed in user profile at end of posts）
-
 # Interests to show in About widget
 interests:
 - GeoAI
@@ -74,4 +72,6 @@ email: ""
 highlight_name: true
 ---
 
+# Short bio (displayed in user profile at end of posts)
+bio:
 Kai Sun is a postdoctoral associate in the [Department of Geography](https://www.buffalo.edu/cas/geography.html) at the [University of Buffalo (UB)](https://www.buffalo.edu/), advised by Dr. [Yingjie Hu](http://www.acsu.buffalo.edu/~yhu42/). Before having this postdoc position, he worked as a postdoc researcher at the Institute of Geographic Sciences and Natural Resources Research, CAS. His current major research interest is in geospatial artificial intelligence (GeoAI), with a special focus on understanding and extracting location descriptions from disaster related social media messages. CV can be downlaoded [here](https://github.com/sunkai-8304/papers/blob/main/CV_KaiSun20230220.pdf).
