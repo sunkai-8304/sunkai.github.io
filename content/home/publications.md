@@ -10,7 +10,7 @@ design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '2'
 ---
-10\. **Sun, K.**, Hu, Y., Song, J., & Zhu, Y. (2021). [Aligning geographic entities from historical maps for building knowledge graphs](https://github.com/sunkai-8304/papers/blob/main/2020_IJGIS_MapGraph.pdf). *International Journal of Geographical Information Science*, 35(10), 2078-2107.  
+10\. **Sun, K.**, Hu, Y., Song, J., & Zhu, Y. (2021). [Aligning geographic entities from historical &nbsp;&nbsp;&nbsp;&nbsp;maps for building knowledge graphs](https://github.com/sunkai-8304/papers/blob/main/2020_IJGIS_MapGraph.pdf). *International Journal of Geographical Information Science*, 35(10), 2078-2107.  
 9\. Li, W., **Sun, K.**, Zhu, Y., Song, J., Yang, J., Qian, L., & Wang, S. (2021). [Analyzing the &nbsp;&nbsp;&nbsp;&nbsp;research evolution in response to COVID-19](https://github.com/sunkai-8304/papers/blob/main/ijgi-10-00237.pdf). *ISPRS International Journal of Geo-&nbsp;&nbsp;&nbsp;&nbsp;Information*, 10(4), 237-260.  
 8\. **Sun, K.**, Zhu, Y., Pan, P., Hou, Z., Wang, D., Li, W., & Song, J. (2019). [Geospatial data &nbsp;&nbsp;&nbsp;&nbsp;ontology: the semantic foundation of geospatial data integration and sharing](https://github.com/sunkai-8304/papers/blob/main/Geoontology.pdf). *Big &nbsp;&nbsp;&nbsp;&nbsp;Earth Data*, 3(3), 269-296.  
 7\.  **Sun, K.**, Zhu, Y., & Song, J. (2019). [Progress and challenges on entity alignment of &nbsp;&nbsp;&nbsp;&nbsp;geographic knowledge bases](https://github.com/sunkai-8304/papers/blob/main/ijgi-08-00077-v2.pdf). *ISPRS International Journal of Geo-Information*, 8(2), &nbsp;&nbsp;&nbsp;&nbsp;77-101.  
