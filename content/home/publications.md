@@ -10,7 +10,7 @@ design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '2'
 ---
-7\.  *Sun, K.*, Zhu, Y., & Song, J. (2019). [Progress and challenges on entity alignment of geographic knowledge bases]. *ISPRS International Journal of Geo-Information*, 8(2), 77-101.  
+7\.  **Sun, K.**, Zhu, Y., & Song, J. (2019). [Progress and challenges on entity alignment of geographic knowledge bases]. *ISPRS International Journal of Geo-Information*, 8(2), 77-101.  
 6\. Yang, J., Zhu, Y., Song, J., Lu, F., **Sun, K.**, & Li, W. (2018). [A Precise Description &nbsp;&nbsp;&nbsp;&nbsp;Approach on the Result of Automatic Data Matching for Geo-spatial Model](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7i0-kJR0HYBJ80QN9L51zrPyIFJyFxI5zlN7gx9OKK2HHyUoZRXb3edemsgjEfCX6O&uniplatform=NZKPT). *Journal &nbsp;&nbsp;&nbsp;&nbsp;of Geo-information Science*, 20(6), 744-752. (in Chinese)  
 5\. Zhu, Y., Zhu, A. X., Song, J., Yang, J., Feng, M., **Sun, K.**, Zhang J., Hou Z., & Zhao, H. &nbsp;&nbsp;&nbsp;&nbsp;(2017). [Multidimensional and quantitative interlinking approach for linked geospatial &nbsp;&nbsp;&nbsp;&nbsp;data](https://www.tandfonline.com/doi/full/10.1080/17538947.2016.1266041). *International Journal of Digital Earth*, 10(9), 923-943.  
 4\. Zhu, Y., Zhu, A. X., Feng, M., Song, J., Zhao, H., Yang, J., Zhang Q., **Sun K.**, Zhang J., & &nbsp;&nbsp;&nbsp;&nbsp;Yao, L. (2017). [A similarity-based automatic data recommendation approach for &nbsp;&nbsp;&nbsp;&nbsp;geographic models](https://www.tandfonline.com/doi/abs/10.1080/13658816.2017.1300805). *International Journal of Geographical Information Science*, &nbsp;&nbsp;&nbsp;&nbsp;31(7), 1403-1424.  
