@@ -15,8 +15,7 @@ organizations:
 - name: University at Buffalo
   url: https://www.buffalo.edu/
 
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include GEOAI, Public Health, Urban Analytics.
+# Short bio (displayed in user profile at end of posts）
 
 # Interests to show in About widget
 interests:
