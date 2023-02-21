@@ -32,11 +32,11 @@ marketing:
 header:
   navbar:
     enable: true
-    align: l
+    align: 2
     show_logo: true
     show_language: false
-    show_day_night: true
-    show_search: true
+    show_day_night: False
+    show_search: False
     highlight_active_link: true
 
 # Site footer
