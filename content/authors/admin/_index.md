@@ -17,9 +17,9 @@ organizations:
 
 # Interests to show in About widget
 interests:
-- GeoAI
-- NLP
-- Disaster
+- Geospatial artificial intelligence
+- Disaster management
+- Natural language processing
 
 # Education to show in About widget
 education:
