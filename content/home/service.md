@@ -16,5 +16,6 @@ design:
 * [Transactions in GIS](https://onlinelibrary.wiley.com/journal/14679671)
 * [Journal of Earth Science](https://www.springer.com/journal/12583)
 * [PLOS ONE](https://journals.plos.org/plosone/)
+* [Computers & Geosciences](https://www.sciencedirect.com/journal/computers-and-geosciences)
 
 
