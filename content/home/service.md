@@ -18,5 +18,6 @@ design:
 * [Journal of Earth Science](https://www.springer.com/journal/12583)
 * [PLOS ONE](https://journals.plos.org/plosone/)
 * [Remote Sensing](https://www.mdpi.com/journal/remotesensing/)
+* [Sustainability](https://www.mdpi.com/journal/sustainability)
 
 
