@@ -72,4 +72,4 @@ email: ""
 highlight_name: true
 ---
 
-My name is Kai Sun. I am a postdoctoral associate in the [Department of Geography](https://www.buffalo.edu/cas/geography.html) at the [University of Buffalo (UB)](https://www.buffalo.edu/), advised by Dr. [Yingjie Hu](http://www.acsu.buffalo.edu/~yhu42/). My current major research interest is in geospatial artificial intelligence (GeoAI), with a special focus on understanding and extracting location descriptions from disaster related social media messages. CV can be downlaoded [here](https://github.com/sunkai-8304/papers/blob/main/CV_KaiSun20230220.pdf).
+My name is Kai Sun. I am a postdoctoral associate in the [Department of Geography](https://www.buffalo.edu/cas/geography.html) at the [University at Buffalo (UB)](https://www.buffalo.edu/), advised by Dr. [Yingjie Hu](http://www.acsu.buffalo.edu/~yhu42/). My current major research interest is in geospatial artificial intelligence (GeoAI), with a special focus on understanding and extracting location descriptions from disaster related social media messages. CV can be downlaoded [here](https://github.com/sunkai-8304/papers/blob/main/CV_KaiSun20230220.pdf).
