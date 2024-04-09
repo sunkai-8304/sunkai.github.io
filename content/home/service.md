@@ -18,6 +18,7 @@ design:
 * [Computers & Geosciences](https://www.sciencedirect.com/journal/computers-and-geosciences)
 * [Journal of Earth Science](https://www.springer.com/journal/12583)
 * [Journal of Geographical Systems](https://link.springer.com/journal/10109)
+* [ISPRS International Journal of Geo-Information](https://www.mdpi.com/journal/ijgi)
 * [PLOS ONE](https://journals.plos.org/plosone/)
 * [Remote Sensing](https://www.mdpi.com/journal/remotesensing/)
 * [Sustainability](https://www.mdpi.com/journal/sustainability)
