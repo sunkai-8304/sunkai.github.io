@@ -11,6 +11,7 @@ design:
   columns: '2'
 ---
 
+5\. ICA Scholarship, By International Cartographic Association (ICA), 2024
 4\. Excellent Graduate, by Institute of Geographic Sciences and Natural Resources &nbsp;&nbsp;&nbsp;&nbsp;Research, CAS, 2021  
 3\. Doctor Fellowship, by Institute of Geographic Sciences and Natural Resources &nbsp;&nbsp;&nbsp;&nbsp;Research, CAS, 2018, 2019  
 2\. Joint Ph.D. Student Scholarship, by China Scholarship Council, 2018  
