@@ -10,7 +10,7 @@ design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '2'
 ---
-7\. Poster presentation (2024): GALLOC: A GeoAnnotator for Labeling LOCation descriptions &nbsp;&nbsp;&nbsp;&nbsp;from disaster-related text messages, *2024 CaGIS + UCGIS Symposium*, June 3-6, 2024, Columbus, Ohio, USA.  
+7\. Poster presentation (2024): GALLOC: A GeoAnnotator for Labeling LOCation &nbsp;&nbsp;&nbsp;&nbsp;descriptions from disaster-related text messages, *2024 CaGIS + UCGIS Symposium*, &nbsp;&nbsp;&nbsp;&nbsp;June 3-6, 2024, Columbus, Ohio, USA.  
 6\. Oral presentation (2023): GALLOC: A GeoAnnotator for Labeling LOCation descriptions &nbsp;&nbsp;&nbsp;&nbsp;from disaster-related text messages, *the 4th Spatial Data Science Symposium*, &nbsp;&nbsp;&nbsp;&nbsp;September 5-6, 2023, online.  
 5\. Oral presentation (2023): GALLOC: A GeoAnnotator for Labeling LOCation descriptions &nbsp;&nbsp;&nbsp;&nbsp;from disaster-related text messages, *International Symposium on Location-Based Big &nbsp;&nbsp;&nbsp;&nbsp;Data and GeoAI*, August 12, 2023, online.  
 4\. Oral presentation (2022): Geospatial data ontology: the semantic foundation of &nbsp;&nbsp;&nbsp;&nbsp;geospatial data integration and sharing, *International Training Workshop on &nbsp;&nbsp;&nbsp;&nbsp;Resource & Environment Scientific Data Sharing and Disaster Risk Reduction &nbsp;&nbsp;&nbsp;&nbsp;Knowledge Service along the Belt and Road*, November 20-24, 2022, online.  
