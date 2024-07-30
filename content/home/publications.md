@@ -10,6 +10,8 @@ design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '2'
 ---
+25\. Sun, K., Hu, Y., Joseph, K., & Zhou, R. Z., 2024. GALLOC: A GeoAnnotator for Labeling LOCation descriptions from disaster-related text messages.  
+24\. Sun, K., Zhou, R. Z., Kim, J., & Hu, Y., 2024. PyGRF: An improved Python Geographical Random Forest model and case studies in public health and natural disasters. *Transactions in GIS*. Under review.
 23\. Li, W., **Sun, K.\***, Wang, S., Zhu, Y., Dai, X., & Hu, L. (2024). [DePNR: A DeBERTa-based &nbsp;&nbsp;&nbsp;&nbsp;deep learning model with complete position embedding for place name recognition &nbsp;&nbsp;&nbsp;&nbsp;from geographical literature](https://doi.org/10.1111/tgis.13170). *Transactions in GIS*.  
 22\. **Sun, K.**, Hu, Y., Gaurish L., & Zhou, R. Z. (2023). [Spatial cross-validation for GeoAI](https://www.taylorfrancis.com/books/edit/10.1201/9781003308423), In: &nbsp;&nbsp;&nbsp;&nbsp;S. Gao, Y. Hu, and W. Li (Eds), *Handbook of Geospatial Artificial Intelligence*, Taylor & &nbsp;&nbsp;&nbsp;&nbsp;Francis Group.  
 21\. Zhu, Y., **Sun, K.\***, Wang, S., Zhou, C., Lu, F., Lv, H., Qiu, Q., Wang, X.,, & Qi, Y. (2023). [An &nbsp;&nbsp;&nbsp;&nbsp;Adaptive Representation Model for Geoscience Knowledge Graphs Considering &nbsp;&nbsp;&nbsp;&nbsp;Complex Spatiotemporal Features and Relationships](https://link.springer.com/article/10.1007/s11430-022-1169-9). *Science China Earth Sciences*.  
