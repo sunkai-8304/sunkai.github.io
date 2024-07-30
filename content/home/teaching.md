@@ -11,5 +11,5 @@ design:
   columns: '2'
 ---
   
-1\. GEO 514: GIS and Machine Learning
+1\. GEO 514: GIS and Machine Learning (Spring 2024, at University at Buffalo)
 
