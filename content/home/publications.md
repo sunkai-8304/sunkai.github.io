@@ -10,7 +10,7 @@ design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '2'
 ---
-23\. **Sun, K.**, Hu, Y., Kenneth J., & Zhou, R. Z. (2024). [GALLOC: A GeoAnnotator for Labeling LOCation descriptions from disaster-related text messages](). *International Journal of Geographical Information Science*. In press.  
+23\. **Sun, K.**, Hu, Y., Kenneth J., & Zhou, R. Z. (2025). [GALLOC: A GeoAnnotator for Labeling &nbsp;&nbsp;&nbsp;&nbsp;LOCation descriptions from disaster-related text messages](). *International Journal of Geographical Information Science*. In press.  
 22\. Qiu, Q., Li, H., Hu, X., Tian, M., Ma K., Zhu, Y., **Sun, K.\***, Li, W., Wang, S., & Xie, Z. (2024). &nbsp;&nbsp;&nbsp;&nbsp;[A knowledge-guided spatio-temporal correlation measure considering rules and &nbsp;&nbsp;&nbsp;&nbsp;dependency syntax for knowledge graph adaptive representation](https://onlinelibrary.wiley.com/doi/10.1111/tgis.13288). *Transactions in GIS*. &nbsp;&nbsp;&nbsp;&nbsp;In press.  
 21\. **Sun, K.**, Zhou, R. Z., Kim, J., & Hu, Y. (2024). [PyGRF: An improved Python &nbsp;&nbsp;&nbsp;&nbsp;Geographical Random Forest model and case studies in public health and natural &nbsp;&nbsp;&nbsp;&nbsp;disasters](https://doi.org/10.1111/tgis.13248). *Transactions in GIS*. In press.  
 20\. Li, W., **Sun, K.\***, Wang, S., Zhu, Y., Dai, X., & Hu, L. (2024). [DePNR: A DeBERTa-based &nbsp;&nbsp;&nbsp;&nbsp;deep learning model with complete position embedding for place name recognition &nbsp;&nbsp;&nbsp;&nbsp;from geographical literature](https://doi.org/10.1111/tgis.13170). *Transactions in GIS*. In press.  
