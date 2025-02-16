@@ -16,6 +16,7 @@ design:
 * [Transactions in GIS](https://onlinelibrary.wiley.com/journal/14679671)
 * [Information Processing and Management](https://www.sciencedirect.com/journal/information-processing-and-management)
 * [International Journal of Digital Earth](https://www.tandfonline.com/journals/tjde20)
+* [GIScience & Remote Sensing](https://www.tandfonline.com/journals/tgrs20)
 * [Computers & Geosciences](https://www.sciencedirect.com/journal/computers-and-geosciences)
 * [Journal of Earth Science](https://www.springer.com/journal/12583)
 * [Journal of Geographical Systems](https://link.springer.com/journal/10109)
