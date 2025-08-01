@@ -10,9 +10,9 @@ role: Postdoctoral Associate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Department of Geography
+- name: Department of Geography and Resource Management
   url: https://www.buffalo.edu/cas/geography.html
-- name: University at Buffalo
+- name: The Chinese University of Hong Kong
   url: https://www.buffalo.edu/
 
 # Interests to show in About widget
