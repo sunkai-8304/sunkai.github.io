@@ -69,4 +69,4 @@ email: ""
 highlight_name: true
 ---
 
-My name is Kai Sun. I am a postdoctoral associate in the [Department of Geography and Resource Management](https://www.grm.cuhk.edu.hk/en/) at the [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/), advised by Dr. [Nina Lam](https://www.grm.cuhk.edu.hk/en/profile/prof-nina-lam-siu-ngan/). My current major research interest is in geospatial artificial intelligence (GeoAI) for disaster management. CV can be downlaoded [here](https://github.com/sunkai-8304/papers/blob/main/CV_KaiSun20240409.pdf).
+My name is Kai Sun. I am a postdoctoral associate in the [Department of Geography and Resource Management](https://www.grm.cuhk.edu.hk/en/) at the [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/), advised by Dr. [Nina Lam](https://www.grm.cuhk.edu.hk/en/profile/prof-nina-lam-siu-ngan/). My current major research interest is in geospatial artificial intelligence (GeoAI) for disaster management. CV can be downlaoded [here](https://github.com/sunkai-8304/Materials/blob/main/CV_KaiSun.pdf).
