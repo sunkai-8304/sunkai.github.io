@@ -15,7 +15,7 @@ subtitle:
 content:
   # Automatically link email and phone or display as text?
   autolink: true
-  Email: ksun4@buffalo.edu
+  Email: kaisun@cuhk.edu.hk
   # Email form provider
   # form:
   #   provider: netlify
