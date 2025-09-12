@@ -11,9 +11,9 @@ role: Postdoctoral Associate
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Department of Geography and Resource Management
-  url: https://www.buffalo.edu/cas/geography.html
+  url: https://www.grm.cuhk.edu.hk/en/
 - name: The Chinese University of Hong Kong
-  url: https://www.buffalo.edu/
+  url: https://www.cuhk.edu.hk/english/
 
 # Interests to show in About widget
 interests:
@@ -51,9 +51,6 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/sunkai-8304
-- icon: researchgate
-  icon_pack: ai
-  link: https://www.researchgate.net/profile/Kai-Sun-20
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0002-0343-6032
@@ -72,4 +69,4 @@ email: ""
 highlight_name: true
 ---
 
-My name is Kai Sun. I am a postdoctoral associate in the [Department of Geography](https://www.buffalo.edu/cas/geography.html) at the [University at Buffalo (UB)](https://www.buffalo.edu/), advised by Dr. [Yingjie Hu](http://www.acsu.buffalo.edu/~yhu42/). My current major research interest is in geospatial artificial intelligence (GeoAI), with a special focus on understanding and extracting location descriptions from disaster related social media messages. CV can be downlaoded [here](https://github.com/sunkai-8304/papers/blob/main/CV_KaiSun20240409.pdf).
+My name is Kai Sun. I am a postdoctoral associate in the [Department of Geography and Resource Management](https://www.grm.cuhk.edu.hk/en/) at the [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/), advised by Dr. [Nina Lam](https://www.grm.cuhk.edu.hk/en/profile/prof-nina-lam-siu-ngan/). My current major research interest is in geospatial artificial intelligence (GeoAI) for disaster management. CV can be downlaoded [here](https://github.com/sunkai-8304/papers/blob/main/CV_KaiSun20240409.pdf).
