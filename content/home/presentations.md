@@ -10,8 +10,8 @@ design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '2'
 ---
-10\. Oral presentation (2025): PyGRF: An improved Python Geographical Random Forest &nbsp;&nbsp;&nbsp;&nbsp;model and case studies in public health and natural disasters, *the 2nd National Conference on Information Geography*, August 18-20, 2025, Chengdu, China
-9\. Oral presentation (2025): PyGRF: An improved Python Geographical Random Forest &nbsp;&nbsp;&nbsp;&nbsp;model and case studies in public health and natural disasters, *the 4th Intelligent Surveying and Mapping Symposium*, June 13-15, 2025, Guangzhou, China
+10\. Oral presentation (2025): PyGRF: An improved Python Geographical Random Forest &nbsp;&nbsp;&nbsp;&nbsp;model and case studies in public health and natural disasters, *the 2nd National Conference on Information Geography*, August 18-20, 2025, Chengdu, China.  
+9\. Oral presentation (2025): PyGRF: An improved Python Geographical Random Forest &nbsp;&nbsp;&nbsp;&nbsp;model and case studies in public health and natural disasters, *the 4th Intelligent Surveying and Mapping Symposium*, June 13-15, 2025, Guangzhou, China.  
 8\. Oral presentation (2024): PyGRF: An improved Python Geographical Random Forest &nbsp;&nbsp;&nbsp;&nbsp;model and case studies in public health and natural disasters, *2024 Esri User &nbsp;&nbsp;&nbsp;&nbsp;Conference: Innovations in GI Science*, July 15-19, 2024, San Diego, California, USA.  
 7\. Poster presentation (2024): GALLOC: A GeoAnnotator for Labeling LOCation &nbsp;&nbsp;&nbsp;&nbsp;descriptions from disaster-related text messages, *2024 CaGIS + UCGIS Symposium*, &nbsp;&nbsp;&nbsp;&nbsp;June 3-6, 2024, Columbus, Ohio, USA.  
 6\. Oral presentation (2023): GALLOC: A GeoAnnotator for Labeling LOCation descriptions &nbsp;&nbsp;&nbsp;&nbsp;from disaster-related text messages, *the 4th Spatial Data Science Symposium*, &nbsp;&nbsp;&nbsp;&nbsp;September 5-6, 2023, Online.  
