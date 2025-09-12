@@ -3,7 +3,7 @@ widget: blank
 headless: true
 
 # ... Put Your Section Options Here (title etc.) ...  'Accomplish&shy;ments'
-title: Teaching
+title: Research Grant
 subtitle:
 weight: 70  # section position on page
 design:
@@ -11,5 +11,5 @@ design:
   columns: '2'
 ---
   
-1\. GEO 514: GIS and Machine Learning (Spring 2024, at University at Buffalo)
+1\. PI. Advancing the spatially explicit geographical random forests model and its interpretability. *Young Scientists Fund, National Natural Science Foundation of China*. CNY 300,000. 2026-2028 (Awarded, project to start in 2026)
 
