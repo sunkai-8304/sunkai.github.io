@@ -14,6 +14,7 @@ design:
 **Peer Reviewer for Academic Journals**
 * [International Journal of Geographical Information Science](https://www.tandfonline.com/toc/tgis20/current)
 * [Transactions in GIS](https://onlinelibrary.wiley.com/journal/14679671)
+* [Reliability Engineering & System Safety](https://www.sciencedirect.com/journal/reliability-engineering-and-system-safety)
 * [Information Processing and Management](https://www.sciencedirect.com/journal/information-processing-and-management)
 * [International Journal of Digital Earth](https://www.tandfonline.com/journals/tjde20)
 * [GIScience & Remote Sensing](https://www.tandfonline.com/journals/tgrs20)
